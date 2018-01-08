@@ -1,0 +1,3 @@
+/home/gabe/lolPoller/build/CMakeFiles/edit_cache.dir
+/home/gabe/lolPoller/build/CMakeFiles/lolPoller.dir
+/home/gabe/lolPoller/build/CMakeFiles/rebuild_cache.dir
